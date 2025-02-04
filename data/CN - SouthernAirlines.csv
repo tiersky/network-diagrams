@@ -1,0 +1,23 @@
+Feature,Target,Lag with Target,Cumulative Lag,Correlation,Level
+Awareness,Consideration,5,5,0.643525922,first
+Current Customer,Consideration,1,1,0.62210452,first
+Quality,Consideration,7,7,0.589779374,first
+WOM Exposure,Consideration,5,5,0.586680656,first
+Former Customer,Consideration,16,16,0.553328904,first
+Reputation,Awareness,16,21,0.588187332,second
+Ad Awareness,Awareness,11,16,0.484360532,second
+Impression,Awareness,15,20,0.46683543,second
+Value,Awareness,15,20,0.436294002,second
+Reputation,Current Customer,16,17,0.621941275,second
+Satisfaction,Current Customer,4,5,0.533933686,second
+Value,Current Customer,6,7,0.528765626,second
+Impression,Current Customer,16,17,0.513041006,second
+Ad Awareness,Current Customer,11,12,0.502947209,second
+Reputation,Quality,13,20,0.506374379,second
+Impression,Quality,15,22,0.470599122,second
+Value,Quality,12,19,0.412314507,second
+Ad Awareness,Quality,5,12,0.411538954,second
+Reputation,WOM Exposure,13,18,0.472704223,second
+Satisfaction,WOM Exposure,2,7,0.438718047,second
+Ad Awareness,WOM Exposure,1,6,0.408052671,second
+Recommend,Reputation,12,29,0.416912234,third

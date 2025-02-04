@@ -1,0 +1,31 @@
+Feature,Target,Lag with Target,Cumulative Lag,Correlation,Level
+Impression,Consideration,8,8,0.666164417,first
+Quality,Consideration,9,9,0.656875236,first
+Recommend,Consideration,9,9,0.637106225,first
+Ad Awareness,Consideration,8,8,0.636808778,first
+Current Customer,Consideration,9,9,0.627534742,first
+Reputation,Impression,5,13,0.674825699,second
+Value,Impression,1,9,0.603438804,second
+Buzz,Impression,9,17,0.602504264,second
+Satisfaction,Impression,1,9,0.592095392,second
+Attention,Impression,9,17,0.564489605,second
+Reputation,Quality,5,14,0.600683733,second
+WOM Exposure,Quality,1,10,0.598065041,second
+Buzz,Quality,9,18,0.570769259,second
+Value,Quality,1,10,0.549174571,second
+Awareness,Quality,2,11,0.530152056,second
+Satisfaction,Quality,1,10,0.529554399,second
+Reputation,Recommend,13,22,0.580761086,second
+Value,Recommend,8,17,0.53798365,second
+Buzz,Recommend,9,18,0.522341958,second
+Satisfaction,Recommend,8,17,0.50146121,second
+Awareness,Recommend,2,11,0.500093373,second
+Reputation,Ad Awareness,1,9,0.6445267,second
+WOM Exposure,Ad Awareness,1,9,0.600674297,second
+Buzz,Ad Awareness,9,17,0.541387528,second
+Value,Ad Awareness,9,17,0.539421179,second
+Attention,Ad Awareness,3,11,0.4661863,second
+Reputation,Current Customer,5,14,0.49811839,second
+Satisfaction,Current Customer,6,15,0.496520483,second
+WOM Exposure,Current Customer,1,10,0.462508494,second
+Purchase Intent,Satisfaction,15,24,0.556162702,third

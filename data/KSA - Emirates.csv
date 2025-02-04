@@ -1,0 +1,6 @@
+Feature,Target,Lag with Target,Cumulative Lag,Correlation,Level
+Ad Awareness,Consideration,3,3,0.492749494,first
+WOM Exposure,Consideration,3,3,0.4326055,first
+Former Customer,Consideration,3,3,0.420711342,first
+Purchase Intent,WOM Exposure,12,15,0.40454112,second
+Reputation,Purchase Intent,18,33,0.435244645,third

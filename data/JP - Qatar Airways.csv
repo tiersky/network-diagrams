@@ -1,0 +1,4 @@
+Feature,Target,Lag with Target,Cumulative Lag,Correlation,Level
+WOM Exposure,Consideration,19,19,0.461507997,first
+Former Customer,WOM Exposure,10,29,0.427417835,second
+Attention,Former Customer,19,48,0.400112263,third

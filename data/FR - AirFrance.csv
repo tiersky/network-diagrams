@@ -1,0 +1,9 @@
+Feature,Target,Lag with Target,Cumulative Lag,Correlation,Level
+Impression,Consideration,1,1,0.43270829,first
+Quality,Consideration,1,1,0.423686776,first
+Ad Awareness,Consideration,20,20,0.41449455,first
+Current Customer,Impression,15,16,0.502515068,second
+Recommend,Impression,1,2,0.412426607,second
+Current Customer,Quality,17,18,0.403674247,second
+Buzz,Current Customer,6,22,0.533246425,third
+Value,Current Customer,1,17,0.519958878,third
